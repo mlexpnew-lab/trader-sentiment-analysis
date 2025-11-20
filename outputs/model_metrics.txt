@@ -1,0 +1,14 @@
+Accuracy: 1.0000
+Top features:
+                     feature  importance
+                     avg_pnl    0.328685
+                   total_pnl    0.326334
+                    win_rate    0.231288
+                short_trades    0.053659
+                    n_trades    0.030180
+                max_drawdown    0.018835
+                 long_trades    0.009473
+      Classification_Neutral    0.000519
+         Classification_Fear    0.000415
+Classification_Extreme Greed    0.000373
+        Classification_Greed    0.000240
